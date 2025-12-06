@@ -1,205 +1,248 @@
-CZĘŚĆ II: LATA OSTRZEŻEŃ (2020-2024)
+CZĘŚĆ II: LATA OSTRZEŻEŃ (2021–2024)
 ROZDZIAŁ 3
 Medalion Mówi Prawdę
+
 Pierwsze dwa lata Bóbr pracował jak opętany.
-Nie dlatego, że musiał. Dlatego, że chciał. Po raz pierwszy od czasu zniszczenia swojej tamy miał przed sobą coś, co można było naprawiać, ulepszać, doskonalić. Maszynownia statku "Północna Gwiazda" była jak ogromny, skomplikowany organizm, który oddychał, pulsował i czasem – bolał.
-A Bóbr rozumiał ten ból lepiej niż ktokolwiek inny.
-Nauczył się języka maszyn. Piece MIM, które przetwarzały metal w precyzyjne komponenty, miały swoje kaprysy – jeden pracował za gorąco, drugi za wolno, trzeci miał problem z próżnią. Roboty Yaskawa Motoman poruszały się jak tancerze, ale ich synchronizacja była niedoskonała – czasem o milisekundy spóźniały się z ruchem, czasem wykonywały zbędne korekty. Systemy PLC Siemens kontrolowały wszystko, ale ich kod był napisany przez kogoś, kto nie rozumiał do końca, jak optymalizować cykle.
-Bóbr to wszystko widział.
+
+Nie dlatego, że musiał. Dlatego, że chciał. Po raz pierwszy od czasu, gdy jego tama została zmielona na drzazgi, miał pod ręką coś, co dało się utrzymać w ryzach: Kolosa przy nabrzeżu, ogromny budynek-statek, który nie płynął w morze, ale i tak mógł utonąć — w papierach, w zaniedbaniach, w decyzjach ludzi, którzy nie schodzili nigdy do Maszynowni.
+
+Maszynownia była organizmem. Oddychała przez sprężarki, pulsowała przez pompy, miała temperaturę, rytm i ból. A ból miał tę cechę, że nie krzyczał od razu. Najpierw tylko zmieniał ton.
+
+Bóbr uczył się tego tonu.
+
+Piece do metalowych rytuałów miały swoje humory — jeden chciał zawsze za gorąco, drugi za długo, trzeci robił próżnię tak, jakby ktoś go kiedyś naprawił „na chwilę” i o tym zapomniał. Ramiona robotów poruszały się jak tancerze, ale czasem w tańcu było mikro-spóźnienie, jak mrugnięcie powieki, które nie boli — dopóki nie powtórzy się tysiąc razy. Szafy sterujące migały zielenią, ale Bóbr wiedział, że zielony kolor nie jest dowodem zdrowia — jest tylko dowodem, że jeszcze się nie przyznały.
+
 I zaczął naprawiać.
 
-I. Nocna naprawa pompy balastowej
+I. Nocna naprawa pompy, której nikt nie słyszał
+
 Była druga w nocy, gdy Bóbr usłyszał to.
-Leżał w swojej kajucie, ale nie spał – nigdy dobrze nie sypiał, odkąd znalazł się na statku. Zawsze słuchał. I tej nocy usłyszał coś, czego nie powinien usłyszeć.
-Drgania w wodzie. Nieprawidłowe. Jakby gdzieś w głębi kadłuba pompka balastowa – ta, która regulowała równowagę statku – zaczynała tracić moc.
-Nikt inny tego nie słyszał. Dla nich to był tylko dalekie szum, tło, nic ważnego.
-Ale dla Bobra to było jak alarm.
-Wstał, ubrał się szybko i zszedł do maszynowni. Korytarze były puste, oświetlone tylko awaryjnymi lampkami. Maszynownia spała – tylko silniki główne pracowały w swoim miarowym rytmie.
-Bóbr wszedł do części technicznej, tam gdzie były pompy. Dotknął rurociągów, przysłuchał się wibracom.
-"Zawór numer trzy," wyszeptał do siebie.
-Medalion w jego kieszeni zaświecił się lekko, jakby potwierdzając diagnozę.
-Bóbr wziął klucze, narzędzia, latarkę. Pracował szybko, precyzyjnie, bez zbędnych ruchów. Zawór był zużyty – uszczelka przeciekała, ciśnienie spadało, system kompensował błąd zwiększając obroty, co tylko przyspieszało degradację.
-Za dwa tygodnie pompa by stanęła. A statek straciłby balans.
-Bóbr wymienił uszczelkę, wyregulował ciśnienie, sprawdził całą linię. Gdy skończył, system pracował idealnie.
-Nikt nigdy się nie dowie, że coś było nie tak.
-Nikt nigdy nie powie mu "dziękuję".
-Ale statek pływał dalej. I to wystarczyło.
 
-Gdy wracał korytarzem do swojej kajuty, Radio Adamowo odezwało się cicho:
-"Robisz to dla nich czy dla statku?"
-"Dla statku," odpowiedział Bóbr w myślach.
-"A jeśli statek ich nie obchodzi?"
-Bóbr zatrzymał się.
-"To ich problem. Nie mój."
-"Jesteś pewien?"
-Nie odpowiedział.
+Leżał w swojej ciasnej kajucie, ale nie spał — od kiedy trafił do Kolosa, sen był u niego płytki, jakby mózg trzymał dyżur nawet wtedy, gdy ciało próbowało zgasnąć. I tej nocy dyżur usłyszał rzecz, której nie powinno się słyszeć przez ścianę.
 
-II. Pierwsza rozmowa z Remonem
-Trzy miesiące później Bóbr zebrał się na odwagę.
-Przez te miesiące robił notatki. Dokumentował wszystko – zużycie części, częstotliwość awarii, wzorce temperatur, anomalie w procesach. Medalion pomagał mu analizować dane, pokazywał trendy, które inne osoby by przegapiły.
-I Bóbr zobaczył coś niepokojącego.
-Maszynownia nie była w dobrym stanie. Była w stanie pozornie dobrym – maszyny pracowały, produkcja szła, nikt się nie skarżył. Ale pod powierzchnią rosło coś złego. Brakujące konserwacje, opóźnione naprawy, części zamawiane w najtańszych wersjach zamiast oryginalnych, dokumentacja, która nie zgadzała się z rzeczywistością.
-To nie był chaos. To było zaniedbanie systemowe.
-Bóbr poprosił o spotkanie z Remonem – kierownikiem, który oficjalnie odpowiadał za maszynownię.
+Nie była to woda rzeki. To była „woda” Kolosa: obieg, który chłodził, stabilizował, wyrównywał. Zwykle miał równy szept. Teraz w tym szepcie pojawiła się przerwa. Krótka. Nielogiczna. Powtarzalna.
 
-Remon siedział za biurkiem w małym, ciasnym gabinecie zawalonym papierami. Wyglądał na zmęczonego, zirytowanego, jakby każda minuta spędzona w tej pracy była stratą czasu.
-"Czego chcesz, Bóbr?" zapytał bez podnoszenia wzroku.
-Bóbr położył na biurku teczkę z notatkami, wykresami, zdjęciami.
-"Chcę pokazać ci coś ważnego."
-Remon westchnął, ale w końcu otworzył teczkę. Przeglądał strony bez zainteresowania.
-"Co to jest?"
-"Analiza stanu maszynowni," odpowiedział Bóbr. "Zrobiłem ją przez ostatnie trzy miesiące. Są tutaj wszystkie dane – zużycie części, trendy temperatur, awarie, przewidywania."
-Remon zmarszczył brwi.
-"Przewidywania?"
-"Tak. Jeśli nie zmienimy podejścia do konserwacji, za dwa lata zaczniemy mieć poważne problemy. Piece zaczną się sypać. Roboty będą wymagały wymiany całych modułów. Systemy sterowania przestaną być niezawodne."
-Remon zamknął teczkę.
-"Bóbr," powiedział powoli, jakby tłumaczył coś dziecku. "Wszystko działa, prawda?"
-"Teraz tak, ale—"
-"Nie ma żadnych poważnych awarii, prawda?"
-"Nie, ale jeśli—"
-"Produkcja idzie zgodnie z planem?"
-"Tak, ale to nie znaczy—"
-Remon machnął ręką.
-"To nie komplikuj. Jeśli coś się zepsuje, naprawimy. Jeśli nie, to nie ma problemu. Jasne?"
-Bóbr patrzył na niego przez chwilę.
-"Jasne," powiedział w końcu cicho.
-Wziął swoją teczkę i wyszedł.
+Dla innych byłoby to tło. Dla Bobra było to jak zgrzyt w zębach.
 
-W korytarzu Radio Adamowo odezwało się:
-"Wiedziałeś, że tak powie."
-"Tak," odpowiedział Bóbr.
-"To dlaczego próbowałeś?"
-"Bo musiałem wiedzieć, czy słuchają."
-"I teraz wiesz."
-"Tak. Nie słuchają."
-"Co teraz zrobisz?"
-Bóbr zatrzymał się, dotknął Medalionu w kieszeni.
-"Będę naprawiał w nocy. I będę dokumentował wszystko."
-"Dlaczego?"
-"Bo pewnego dnia będą potrzebowali dowodów. A ja będę je miał."
+Wstał, włożył ubranie bez hałasu i zszedł do Maszynowni. Korytarze były puste, oświetlone punktami awaryjnych lampek. Budynek oddychał, ale spał — jak zwierzę, które jeszcze nie wie, że coś je boli.
 
-III. Medalion pokazuje trend – prognoza katastrofy
-Rok później Bóbr siedział w maszynowni sam, późną nocą, z Medalionem na dłoni.
-Artefakt pulsował intensywnie – niemal gorąco. Bóbr nauczył się już rozpoznawać jego sygnały. Gdy Medalion był spokojny, wszystko było w porządku. Gdy zaczynał pulsować, coś było nie tak. A gdy palił – było naprawdę źle.
-Teraz palił.
-Bóbr dotknął jego powierzchni, przywołując dane, które zebrał przez ostatnie miesiące. Medalion przetworzeń je, analizował, łączył w wzorce.
-I pokazał coś przerażającego.
-Trend.
-Wykres, który szedł w górę – ale nie w dobrym kierunku. Awarie. Zużycie. Degradacja. Wszystko rosło wykładniczo.
-Medalion wyświetlił projekcję:
-Za 18 miesięcy: maszynownia zacznie się sypać. Piece MIM będą wymagały gruntownej naprawy. Roboty zaczną się wyłączać. Systemy sterowania przestaną być niezawodne.
-Bóbr wpatrywał się w tę projekcję.
-"Możemy to zatrzymać," wyszeptał. "Jeszcze jest czas."
-Medalion zadrżał, jakby odpowiadając:
-"Tylko jeśli ktoś zechce słuchać."
-Bóbr spróbował. Poszedł znowu do Remona. Potem do Martijna. Potem do innych członków załogi.
-Wszyscy odpowiadali to samo:
-"Wszystko działa."
-"Nie panikuj."
-"Jesteśmy zajęci ważniejszymi rzeczami."
-"Ufaj kapitanom."
+Przy obiegu pomp było ciepło i wilgotno. Bóbr dotknął rury, przysłuchał się wibracji, zamknął oczy.
 
-Bóbr wrócił do maszynowni tej nocy. Usiadł przy jednym z pieców, dotykając jego obudowy, słuchając jego wewnętrznej melodii.
-Radio Adamowo odezwało się łagodnie:
-"Jeśli oni nie chcą słuchać, to nie znaczy, że się mylisz."
-"Wiem."
-"Dokumentuj wszystko. Zdjęcia. Notatki. Daty. Wszystko."
-"Po co?"
-"Bo pewnego dnia zapytają: 'Dlaczego nie ostrzegałeś nas wcześniej?' I wtedy pokażesz im, że ostrzegałeś. Wielokrotnie."
-Bóbr skinął głową.
-I zaczął robić zdjęcia.
+„Zawór… nie domyka. Albo uszczelnienie już nie trzyma.”
 
-IV. Załoga widzi poprawki Bobra – podejrzliwość zamiast wdzięczności
-Im więcej Bóbr naprawiał, tym bardziej załoga zaczynała go obserwować.
-Na początku nikt nie zwracał uwagi. Był nowy, cichy, pracowity. Robił swoje. Nikomu nie przeszkadzał.
-Ale z czasem ludzie zaczęli zauważać dziwne rzeczy.
-Maszyna, która poprzedniego dnia trzeszczała, następnego dnia pracowała idealnie. Nikt jej nie naprawiał – oficjalnie. Ale rano była naprawiona.
-System, który miał być "do wymiany za rok", nagle działał jak nowy. Nikt nie składał zamówienia na części. Ale system działał.
-Awarie, które "zawsze się zdarzały", przestały się zdarzać.
-A Bóbr był jedynym, kto zostawał w maszynowni po godzinach.
+Medalion w kieszeni rozgrzał się minimalnie, jak potwierdzenie bez słów: tak, tu.
 
-Pewnego dnia Luka, jeden z mechaników, zatrzymał Bobra w korytarzu.
-"Co ty tam robisz po nocach?" zapytał wprost.
-Bóbr spojrzał na niego spokojnie.
-"Naprawiam."
-"Co naprawiasz?"
-"To, co jest zepsute."
-Luka zmarszczył brwi.
-"Ale nikt ci nie kazał. Remon nie zlecił żadnych napraw."
-"Wiem."
-"To po co to robisz?"
-Bóbr zawahał się.
-"Bo... to trzeba zrobić."
-Luka patrzył na niego przez chwilę, jakby próbował zrozumieć, czy Bóbr jest naiwny, czy głupi, czy może po prostu dziwny.
-"Słuchaj," powiedział w końcu cicho. "Nie wtrącaj się. Jeśli coś się zepsuje, to nie twoja sprawa. Mamy ludzi do tego."
-"Ale—"
-"Nie. Słuchaj mnie. Tu są zasady. Jak coś się psuje, zgłaszasz do Remona. On decyduje. Ty nie decydujesz. Jasne?"
-Bóbr skinął głową.
-Ale tej nocy znowu zszedł do maszynowni i naprawił zużyty łożysko w pompie chłodzącej.
+Bóbr wyciągnął narzędzia. Działał szybko, ale bez paniki. Najpierw odciążenie. Potem kontrola różnicy ciśnień. Potem rozbiórka na tyle, na ile trzeba, nie więcej. Uszczelka była na granicy: jeszcze „działała”, ale tylko w takim sensie, w jakim działa łódź z pęknięciem — dopóki nie przyjdzie gorsza fala.
 
-Kilka dni później Martijn wezwał go do swojego biura.
-Martijn uśmiechał się jak zawsze, ale tym razem uśmiech był... inny. Bardziej napięty.
-"Bóbr," powiedział łagodnie. "Słyszałem, że pracujesz po godzinach."
-"Tak."
-"To dobrze, że jesteś zaangażowany. Naprawdę. Ale..." Martijn zawiesił głos. "Musimy być ostrożni. Maszyny są skomplikowane. Jeśli ktoś coś zmieni bez konsultacji, może to spowodować problemy."
-"Nie powodują problemów," odpowiedział Bóbr. "Naprawiam je."
-"Wiem, wiem. Ale ludzie zaczynają się martwić. Nie rozumieją, co robisz. A jak czegoś nie rozumieją, to się boją."
-Bóbr milczał.
-Martijn westchnął.
-"Słuchaj. Doceniam twoją inicjatywę. Ale może lepiej będzie, jeśli... będziesz się konsultował. Zanim coś zmienisz. Żebyśmy wszyscy wiedzieli, co się dzieje. Dobrze?"
-"Dobrze," powiedział Bóbr.
-Ale wiedział, że jeśli będzie się konsultował, każda naprawa będzie trwała tygodnie. A maszyny nie mogą czekać tygodniami.
-Więc nadal naprawiał w nocy.
-Ale teraz robił to jeszcze ciszej.
+Wymienił element, wyregulował, sprawdził cały odcinek.
 
-V. Frustracja i niepokój – coś większego się dzieje
-Trzeciego roku Bóbr zaczął rozumieć, że coś jest fundamentalnie nie tak.
-To nie było tylko zaniedbanie. To było coś głębszego.
-Zamówienia części były opóźniane "bo za drogie". Konserwacje przesuwane "na później". Szkolenia anulowane "bo niepotrzebne". Dokumentacja techniczna ginęła lub była niekompletna.
-A każda sugestia Bobra była ignorowana z tym samym, uspokajającym:
-"Wszystko w porządku."
-"Nie przejmuj się."
-"Statek pływa."
+Po wszystkim obieg wrócił do równych oddechów.
+
+Nikt nie zauważy.
+
+Nikt nie podziękuje.
+
+Ale Kolos będzie mieć jutro mniej bólu, a to było dla Bobra wystarczające — przynajmniej wtedy.
+
+Kiedy wracał korytarzem, Radio Adamowo odezwało się cicho, jak zakłócenie w tle.
+
+— Robisz to dla nich czy dla tego budynku?
+— „Dla budynku.”
+— A jeśli budynek ich nie obchodzi?
+Bóbr przystanął.
+— „To ich problem.”
+— Jesteś pewien? Przecież jak wszystko pęknie, to winny będzie ten, kto dotykał.
+
+Nie odpowiedział. Zanotował w głowie: to zdanie wróci.
+
+II. Rozmowa z Kapitanem z Tabelką
+
+Po kilku miesiącach Bóbr zrobił to, co robi człowiek, który jeszcze wierzy w rozsądek na mostku: zebrał dane.
+
+Nie plotki. Nie „wydaje mi się”. Dane.
+
+Notatki o awariach, o temperaturach, o odchyleniach, o częściach, które zużywały się szybciej niż powinny. Medalion pomagał mu układać to w trend — tak jakby brał chaos i składał go w wykres.
+
+I wykres był niepokojący.
+
+Maszynownia wyglądała „dobrze” dla tych, którzy patrzą z góry: wszystko migało, wszystko chodziło, produkty schodziły. Ale pod spodem narastała warstwa, której nie widać na zielonej diodzie: opóźnione przeglądy, naprawy robione „byle przetrwać”, zamienniki wybierane nie pod fizykę, tylko pod cenę, dokumentacja, która nie pasowała do rzeczywistości jak zła mapa.
+
+To nie był jednorazowy chaos. To był styl.
+
+Bóbr poprosił o rozmowę z Kapitanem z Tabelką.
+
+Gabinet Kapitana był mały, ciasny, zawalony papierem. Kapitan siedział za biurkiem jak ktoś, kto pływa po rubrykach, nie po wodzie. Najpierw spojrzał na wymówki, potem na kalendarz, a dopiero na Bobra.
+
+— „Czego chcesz?”
+Bóbr położył teczkę: wykresy, zdjęcia, krótkie opisy.
+— „Chcę pokazać ci stan Maszynowni. I to, co z tego wynika.”
+
+Kapitan otworzył teczkę, przewracał kartki bez ciała, jakby czytał listę zakupów.
+
+— „I co?”
+— „Jeśli nie zmienimy podejścia, za kilkanaście miesięcy zacznie się sypać. Najpierw drobiazgi, potem całe moduły, potem przestoje, których nie da się już zakleić nocą.”
+
+Kapitan zamknął teczkę, jakby domknął temat.
+
+— „Ale teraz działa?”
+— „Tak, ale—”
+— „Są poważne awarie?”
+— „Jeszcze nie, bo—”
+— „Plan idzie?”
+— „Idzie, bo ktoś to trzyma, ale—”
+Kapitan machnął ręką, jak odgania się owada.
+— „To nie komplikuj. Jak się zepsuje, naprawimy. Jak nie, to nie ma problemu.”
+
+Bóbr patrzył na niego długo.
+
+W końcu powiedział tylko:
+— „Rozumiem.”
+
+Wyszedł z gabinetu z teczką pod pachą. W korytarzu Radio Adamowo odezwało się jak zawsze, z satysfakcją, że przewidziało.
+
+— Wiedziałeś, że tak powie.
+— „Wiedziałem.”
+— To po co poszedłeś?
+— „Żeby sprawdzić, czy on w ogóle rozumie, czym jest trend.”
+— I?
+— „Nie rozumie. Rozumie rubrykę ‘działa/nie działa’.”
+— A rubryki wygrywają.
+Bóbr dotknął Medalionu w kieszeni.
+— „W takim razie będę robił dwie rzeczy: naprawiał i dokumentował. Jedną dla Maszynowni. Drugą dla dnia, w którym ktoś powie: ‘nikt nas nie ostrzegł.’”
+
+III. Medalion pokazuje trend
+
+Minął kolejny czas, a Medalion przestał być tylko światłem w kieszeni. Stał się narzędziem. Zimnym, konsekwentnym, bez współczucia.
+
+Pewnej nocy Bóbr siedział w Maszynowni sam. Kolos spał, ale nie do końca — zawsze coś pracowało, zawsze jakiś układ robił swoje. Medalion leżał na jego dłoni i pulsował mocniej niż zwykle.
+
+Bóbr wiedział, co to znaczy. Dopiero się tego nauczył:
+spokój = norma,
+puls = odchylenie,
+żar = przyszłość, której nie da się udawać.
+
+Teraz było blisko żaru.
+
+Medalion ułożył dane w prosty obraz: linia nie była prosta. Linia szła w górę. Nie w stronę „rozwoju”, tylko w stronę wzrostu awarii, zużycia i obejść. Najgorsze było to, że linia była gładka — brakowało w niej przypadkowości.
+
+To oznaczało: to już się dzieje.
+
+Bóbr wyszeptał:
+— „Da się to zatrzymać.”
+
+Medalion nie odpowiedział słowami. Odpowiedział warunkiem:
+tylko jeśli ktoś zechce słuchać.
+
+Bóbr próbował jeszcze raz. Nie tylko u Kapitana. U Uśmiechniętego Kwatermistrza, u ludzi od list, u tych, którzy lubią mówić „doceniamy”.
+
+Odpowiedzi były różne, ale sens ten sam:
+„Ważne, że działa.”
+„Nie panikuj.”
+„Nie mamy czasu.”
+„Są ważniejsze tematy.”
+„Nie rób z tego dramatu.”
+
+Bóbr wrócił do Maszynowni i oparł się o ciepłą obudowę maszyny, słuchając jej melodii.
+
+Radio Adamowo powiedziało niemal łagodnie:
+— Jeśli oni nie chcą widzieć, to nie znaczy, że się mylisz.
+— „Wiem.”
+— Zapisuj.
+— „Po co?”
+— Bo pewnego dnia zapytają: ‘dlaczego nie ostrzegałeś?’ I wtedy pokażesz, że ostrzegałeś.
+
+Bóbr zrobił to, co potrafił najlepiej: przestał dyskutować, zaczął archiwizować.
+
+IV. Podejrzliwość zamiast wdzięczności
+
+Im więcej Bóbr naprawiał, tym bardziej ludzie zaczęli go obserwować.
+
+Na początku był „ten nowy, co ogarnia”. Potem: „ten, co zostaje po godzinach”. A w końcu: „ten, co coś kombinuje”.
+
+Maszyna, która wczoraj piszczała, dziś była cicha. Oficjalnie nikt jej nie dotykał.
+Obieg, który gubił ciśnienie, nagle trzymał. Oficjalnie nie było zlecenia.
+Awarie, które „zawsze były”, nagle przestały być.
+
+W świecie, gdzie prawdę mierzy się wpisem w tabeli, poprawa bez tabeli jest podejrzana.
+
+Pewnego dnia jeden z ludzi zatrzymał Bobra w korytarzu.
+
+— „Co ty robisz po nocach?”
+— „Naprawiam.”
+— „Bez zlecenia?”
+— „Tak.”
+— „To nie jest tu mile widziane.”
+— „Dlaczego?”
+— „Bo jak coś pójdzie źle, to nikt nie chce mieć w papierach twoich śladów. A jak pójdzie dobrze, to i tak nikt nie chce mieć w papierach twoich śladów.”
+
+To było powiedziane półżartem, ale brzmiało jak reguła.
+
+Niedługo potem Bóbr został wezwany do biura Uśmiechniętego Kwatermistrza. Uśmiech był ten sam, ale napięty jak linka.
+
+— „Słyszałem, że pracujesz po godzinach.”
+— „Tak.”
+— „Doceniam inicjatywę. Naprawdę. Ale musimy być ostrożni. Ludzie się… niepokoją. Gdy czegoś nie rozumieją, to się boją.”
+— „Nie robię niczego niebezpiecznego.”
+— „Wiem. Ale tu nie chodzi o niebezpieczeństwo. Tu chodzi o to, żeby wszyscy wiedzieli, co się dzieje. Konsultuj.”
+
+Bóbr skinął głową. Powiedział:
+— „Dobrze.”
+
+I tej samej nocy zszedł do Maszynowni i zrobił to, co trzeba było zrobić.
+
+Tylko ciszej. Ostrożniej. Bez świadków.
+
+V. Coś większego niż zaniedbanie
+
+W trzecim roku Bóbr przestał wierzyć, że to tylko bałagan.
+
+Zamówienia części opóźniały się „bo drogo”.
+Konserwacje znikały „bo nie ma czasu”.
+Szkolenia znikały „bo niepotrzebne”.
+Dokumentacja była „gdzieś”.
+Narzędzia pojawiały się i znikały jakby ktoś je przenosił według mapy, której nikt w Maszynowni nie miał.
+
+Każda próba rozmowy rozbijała się o to samo: uspokajające zdanie, które zabija działanie.
+
+„Wszystko jest w porządku.”
+
 Ale Medalion mówił inaczej.
-Pokazywał Bobrowi coś, czego nikt inny nie widział – zaplanowany upadek.
-To nie był chaos. To była stopniowa destrukcja pod pozorem "oszczędności" i "optymalizacji".
 
-Pewnej nocy Bóbr siedział w swojej kajucie z Medalionem na dłoni. Artefakt pulsował mocno – prawie boleśnie.
-"Co się dzieje?" wyszeptał.
-Medalion pokazał mu obraz:
-Statek. Krążący w kółko. Nie płynący do portu. Nie płynący naprzód. Tylko w kółko, w kółko, w kółko.
-A w centrum koła – nic. Pustka.
+Pokazywał, że to nie jest przypadek. Że to jest proces. Że ktoś woli, by Kolos trwał „wystarczająco długo”, a potem był pusty, czysty i oddany bez śladów.
+
+Pewnej nocy Bóbr siedział z Medalionem na dłoni. Puls był prawie bolesny.
+
+— „Co się dzieje?” — wyszeptał.
+
+Medalion pokazał mu obraz: Kolos krążący w kółko. Nie do portu. Nie w przyszłość. W kółko — wokół pustki.
+
 Bóbr zacisnął pięść.
-"Dlaczego nikt tego nie widzi?"
-Radio Adamowo odpowiedziało cicho:
-"Bo nie chcą widzieć. Widzenie wymaga działania. A działanie wymaga odpowiedzialności. Łatwiej jest wierzyć, że wszystko jest w porządku."
-"Ale to kłamstwo."
-"Tak. Ale to wygodne kłamstwo."
-Bóbr spojrzał przez okno kajuty na ocean. Ciemny, nieskończony, obojętny.
-"Co mam zrobić?"
-"Dalej naprawiaj. Dalej dokumentuj. I przygotuj się."
-"Na co?"
-"Na to, co nieuniknione."
 
-Następnego dnia Bóbr spotkał Hansa na pokładzie. Stary kapitan stał przy relingu, patrząc na horyzont, jak zawsze.
-"Hans," powiedział Bóbr cicho.
-Hans odwrócił się.
-"Bóbr. Jak się masz?"
-"Dobrze. Ale... mam pytanie."
-"Słucham."
-Bóbr zawahał się, ale w końcu zapytał:
-"Czy ty... widzisz, co się dzieje?"
-Hans spojrzał na niego długo. Potem skinął głową powoli.
-"Widzę."
-"Dlaczego nic nie mówisz?"
-Hans uśmiechnął się smutno.
-"Bo to już nie mój statek, Bóbr. Ja tylko... chodzę. Patrzę. I czekam."
-"Na co?"
-"Na koniec."
-Bóbr zamarł.
-"Koniec?"
-Hans poklepał go po ramieniu.
-"Ty robisz dobrą robotę. Naprawdę. Ale niektórych statków nie da się uratować. Nie dlatego, że są słabe. Ale dlatego, że ktoś postanowił je zatopić."
-I odszedł, zostawiając Bobra samego.
+— „Dlaczego nikt tego nie widzi?”
+
+Radio Adamowo odpowiedziało z daleka, jak zawsze gotowe z sentencją, która brzmi mądrze i nic nie zmienia:
+— Bo widzieć znaczy działać. A działać znaczy brać odpowiedzialność. Łatwiej wierzyć, że ‘jakoś będzie’.
+
+Bóbr spojrzał na ciemne okno. Kolos stał w nocy jak wielki cień, a w nim pracowały systemy, które nie znają słowa „jakoś”.
+
+Następnego dnia spotkał Starego Armatora. Stary Armator stał przy ogrodzeniu i patrzył na budynek tak, jak patrzy się na coś, co jeszcze ma kształt, ale już zmienia właściciela w sensie najgorszym: w sensie decyzji.
+
+Bóbr podszedł i powiedział wprost:
+— „Widzisz to?”
+
+Stary Armator nie udawał.
+
+— „Widzę.”
+— „Dlaczego nic nie mówisz?”
+Stary Armator uśmiechnął się smutno.
+— „Bo ja już nie dowodzę. Ja tylko chodzę. Patrzę. I czekam.”
+— „Na co?”
+— „Na domknięcie. Są takie budynki, których nie da się uratować nie dlatego, że są słabe… tylko dlatego, że ktoś postanowił, że mają zniknąć z mapy.”
+
+Bóbr wrócił do Maszynowni. Dotknął obudowy jednej z maszyn, tak jak dotyka się rzeczy, które się rozumie lepiej niż ludzi.
+
+I pomyślał:
+
+„Skoro nie mogę zmienić mostka, zmienię jedno: będę mieć dowody. I będę gotowy.”
 
 Koniec Rozdziału 3
