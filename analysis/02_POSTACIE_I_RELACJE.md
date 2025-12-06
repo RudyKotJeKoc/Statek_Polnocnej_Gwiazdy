@@ -153,30 +153,36 @@ W Rozdz. 10:44–56 Martijn mówi: „Przekażę dalej. Ale… nie obiecuję."
 
 ---
 
-## ADRIAN (Czeladnik)
+## ADRIAN – Gastronomista na Statku
 
 ### Rola w fabule
-Młodszy pracownik, który obserwuje destrukcję i uczy się od Bobra. W finale wraca do gastronomii (kawiarnia).
+Pracownik kuchni/kambuzu, oficjalnie „człowiek od jedzenia". Świadek nastrojów załogi i cichy obserwator absurdów mostka. Od pewnego momentu „awansowany" do liczenia majątku w Księdze – nie dlatego, że się zna, tylko dlatego, że ktoś musi.
 
 ### Motywacje
-- **Faza 1 (Rozdz. 5–7):** Zrozumienie, że „uczą go liczyć, nie rozumieć" (Rozdz. 5:133–144).
-- **Faza 2 (Rozdz. 9–12):** Obserwacja strategii Bobra (Defense File, Art. 11).
-- **Faza 3 (Rozdz. 13–14):** Akceptacja, że jego miejsce nie jest w maszynach, tylko w kawie (Rozdz. 13:63–81).
+- **Faza 1 (Rozdz. 3–5):** „Robić swoje, nie wtrącać się" – ale widzi przez kuchnię więcej niż niejeden kierownik.
+- **Faza 2 (Rozdz. 5–7):** Zrozumienie, że „uczą go liczyć, nie rozumieć" (Rozdz. 5:133–144). Absurd: gastronomista spisuje maszyny.
+- **Faza 3 (Rozdz. 8–12):** Pomoc Bobrowi „po ludzku" – przez jedzenie, nie przez śrubokręt. Obserwacja strategii Bobra (Defense File, Art. 11).
+- **Faza 4 (Rozdz. 13–14):** „Nie chcę być częścią tego teatru, wolę własną kawiarnię". Powrót do gastronomii – nadal jedzenie, ale już nie na tonącym statku.
 
 ### Łuk postaci
-**Punkt startu:** Czeladnik bez wyrazistej roli.
-**Punkt zwrotny:** „Widziałem go [Kwatermistrza] w magazynie. Z latarką" (Rozdz. 6:171–195).
-**Punkt końcowy:** Właściciel kawiarni, spokojny z tym, kim jest (Rozdz. 13:63–81, Rozdz. 14:10–12).
+**Punkt startu:** Gastronomista, który patrzy z boku i karmi załogę.
+**Moment absurdu:** Zostaje posadzony do liczenia majątku przy Księdze – „każda para rąk się liczy", choć jego fach to kuchnia, nie maszyny (Rozdz. 5:50).
+**Punkt zwrotny:** „Widziałem go [Kwatermistrza] w magazynie. Z latarką" (Rozdz. 6:171–195) – zrozumienie, że liczenie to przygotowanie do likwidacji.
+**Relacja z Bobrem:** Dba o niego przez jedzenie – robi mu „coś normalnego", bo widzi, że Bóbr pracuje jak amortyzator statku (Rozdz. 3).
+**Punkt końcowy:** Właściciel kawiarni, spokojny z tym, kim jest. „Ja nigdy nie byłem dobry w maszynach. Ale kawę potrafię zrobić" (Rozdz. 13:63–81).
 
 ### Relacje
-- **Bóbr:** Relacja ucznia-obserwatora, bez formalnego mentorstwa. Adrian nie naśladuje Bobra, tylko uczy się myśleć.
+- **Bóbr:** Nie technik–technik, tylko człowiek od kuchni, który dba, żeby Bóbr miał energię. Jedyna osoba, która daje mu coś lepszego niż reszcie – symbolicznie: „nie jesteś tylko numerem w Księdze".
+- **Uśmiechnięty Kwatermistrz:** Relacja podrzędna – Adrian wykonuje jego polecenia przy Księdze, mimo że to nie jest jego fach.
+- **Załoga:** Przez kuchnię słyszy więcej niż niejeden kierownik – nastroje, plotki, prawdę ukrytą w codzienności.
 
-### Niespójności
-⚠️ **LEKKA NIESPÓJNOŚĆ:** W Rozdz. 5:133 Adrian mówi: „Oni mnie uczą liczyć rzeczy, nie rozumieć."
-Ale w żadnym wcześniejszym rozdziale nie było sceny, gdzie Adrian jest wprowadzany do „Księgi" (spis majątków).
+### Spójność
+✅ **Spójna transformacja:** Adrian widzi destrukcję zarządu nie przez wykresy i awarie, tylko przez:
+- Cięcie porcji
+- Oszczędzanie na składnikach
+- „VIP-owe" jedzenie dla góry
 
-**Poprawka:** W Rozdz. 5, część I lub wcześniejszej dodać 1 zdanie:
-„Adrian był teraz przy Księdze, spisując majątki pod okiem Kwatermistrza. Nie pytał, po co. Tylko wpisywał numery."
+Dzięki temu jego relacja z Bobrem jest ciekawa: Bóbr widzi destrukcję w maszynowni, Adrian widzi tę samą destrukcję w kuchni.
 
 ---
 
